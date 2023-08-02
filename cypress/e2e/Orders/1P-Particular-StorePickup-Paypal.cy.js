@@ -1,6 +1,5 @@
 /// <reference types="cypress" />
 
-import { config } from "cypress/types/bluebird";
 import { navigation } from "../../support/page_objects/000-Common/Navigation";
 import { popins } from "../../support/page_objects/000-Common/Popins";
 import { customerAccount } from "../../support/page_objects/010-Customer-Relationship/CustomerAccount";
