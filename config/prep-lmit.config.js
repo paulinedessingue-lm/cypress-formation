@@ -11,9 +11,10 @@ const getIntegrationFolder = (folder) => {
 
 
 module.exports = defineConfig({
+  projectId: 'yt698h',
   e2e: {
 
-    baseUrl: 'https://www.leroymerlin.fr/',
+    baseUrl: 'https://prep-www.leroymerlin.it/',
 
     setupNodeEvents(on, config) {
       config.specPattern = getIntegrationFolder(config.env.folder);
