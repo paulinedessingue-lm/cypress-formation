@@ -13,7 +13,8 @@ const getIntegrationFolder = (folder) => {
 module.exports = defineConfig({
   projectId: 'yt698h',
   e2e: {
-
+    env: 'prep',
+    bu: 'lmfr',
     baseUrl: 'https://prep-www.leroymerlin.fr/',
 
     setupNodeEvents(on, config) {
