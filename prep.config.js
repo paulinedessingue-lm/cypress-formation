@@ -11,7 +11,6 @@ const getIntegrationFolder = (folder) => {
 
 
 module.exports = defineConfig({
-  projectId: 'yt698h',
   e2e: {
 
     baseUrl: 'https://www.leroymerlin.fr/',

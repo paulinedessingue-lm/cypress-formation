@@ -1,7 +1,7 @@
 export class Navigation {
 
     goToHomepage(){
-        cy.visit("https://www.leroymerlin.fr");
+        cy.visit("");
     }
 
 }
