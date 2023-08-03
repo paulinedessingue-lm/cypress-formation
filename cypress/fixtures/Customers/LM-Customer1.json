@@ -1,4 +1,22 @@
 {
-    "email" : "customer-home-standard-delivery@yopmail.fr",
-    "password" : "ler123LM"
+    "prod": {
+        "lmfr" : {
+            "email" : "customer-home-standard-delivery@yopmail.fr",
+            "password" : "ler123LM"
+        },
+        "lmit" : {
+            "email" : "ali@authent.it",
+            "password" : "aliscafo75"
+        }
+    },
+    "prep": {
+        "lmfr" : {
+            "email" : "cerberus-test-24042023@gmail.com",
+            "password" : "ler123LM"
+        },
+        "lmit" : {
+            "email" : "test.prep01@gmail.com",
+            "password" : "ler123LM"
+        }
+    }
 }
